@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Path of Exile</GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>The Ascent (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Slave Pens (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Overseer's Tower (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Control Blocks (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Oriath Square (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Templar Courts (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Chamber of Innocence (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Torched Courts (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Ruined Square (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Ossuary (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Reliquary (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>The Cathedral Rooftop (Part 1)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <log.location>C:/Program Files (x86)/Grinding Gear Games/Path of Exile/logs/client.txt</log.location>
+    <load.removal>True</load.removal>
+    <auto.split>True</auto.split>
+    <split.labyrinth>False</split.labyrinth>
+    <split.zones.on>
+      <split.zone>Lioneye's Watch (Part 1)</split.zone>
+      <split.zone>The Coast (Part 1)</split.zone>
+      <split.zone>The Tidal Island (Part 1)</split.zone>
+      <split.zone>The Mud Flats (Part 1)</split.zone>
+      <split.zone>The Submerged Passage (Part 1)</split.zone>
+      <split.zone>The Ledge (Part 1)</split.zone>
+      <split.zone>The Climb (Part 1)</split.zone>
+      <split.zone>The Lower Prison (Part 1)</split.zone>
+      <split.zone>The Upper Prison (Part 1)</split.zone>
+      <split.zone>Prisoner's Gate (Part 1)</split.zone>
+      <split.zone>The Ship Graveyard (Part 1)</split.zone>
+      <split.zone>The Cavern of Wrath (Part 1)</split.zone>
+      <split.zone>The Cavern of Anger (Part 1)</split.zone>
+      <split.zone>The Southern Forest (Part 1)</split.zone>
+      <split.zone>The Forest Encampment (Part 1)</split.zone>
+      <split.zone>The Riverways (Part 1)</split.zone>
+      <split.zone>The Western Forest (Part 1)</split.zone>
+      <split.zone>The Old Fields (Part 1)</split.zone>
+      <split.zone>The Crossroads (Part 1)</split.zone>
+      <split.zone>The Chamber of Sins Level 1 (Part 1)</split.zone>
+      <split.zone>The Chamber of Sins Level 2 (Part 1)</split.zone>
+      <split.zone>The Weaver's Chambers (Part 1)</split.zone>
+      <split.zone>The Broken Bridge (Part 1)</split.zone>
+      <split.zone>The Wetlands (Part 1)</split.zone>
+      <split.zone>The Vaal Ruins (Part 1)</split.zone>
+      <split.zone>The Northern Forest (Part 1)</split.zone>
+      <split.zone>The Caverns (Part 1)</split.zone>
+      <split.zone>The Ancient Pyramid (Part 1)</split.zone>
+      <split.zone>The City of Sarn (Part 1)</split.zone>
+      <split.zone>The Sarn Encampment (Part 1)</split.zone>
+      <split.zone>The Slums (Part 1)</split.zone>
+      <split.zone>The Crematorium (Part 1)</split.zone>
+      <split.zone>The Sewers (Part 1)</split.zone>
+      <split.zone>The Marketplace (Part 1)</split.zone>
+      <split.zone>The Battlefront (Part 1)</split.zone>
+      <split.zone>The Docks (Part 1)</split.zone>
+      <split.zone>The Solaris Temple Level 1 (Part 1)</split.zone>
+      <split.zone>The Solaris Temple Level 2 (Part 1)</split.zone>
+      <split.zone>The Ebony Barracks (Part 1)</split.zone>
+      <split.zone>The Lunaris Temple Level 1 (Part 1)</split.zone>
+      <split.zone>The Lunaris Temple Level 2 (Part 1)</split.zone>
+      <split.zone>The Imperial Gardens (Part 1)</split.zone>
+      <split.zone>The Library (Part 1)</split.zone>
+      <split.zone>The Sceptre of God (Part 1)</split.zone>
+      <split.zone>The Upper Sceptre of God (Part 1)</split.zone>
+      <split.zone>The Aqueduct (Part 1)</split.zone>
+      <split.zone>Highgate (Part 1)</split.zone>
+      <split.zone>The Dried Lake (Part 1)</split.zone>
+      <split.zone>The Mines Level 1 (Part 1)</split.zone>
+      <split.zone>The Mines Level 2 (Part 1)</split.zone>
+      <split.zone>The Crystal Veins (Part 1)</split.zone>
+      <split.zone>Daresso's Dream (Part 1)</split.zone>
+      <split.zone>Kaom's Dream (Part 1)</split.zone>
+      <split.zone>Kaom's Stronghold (Part 1)</split.zone>
+      <split.zone>The Grand Arena (Part 1)</split.zone>
+      <split.zone>The Belly of the Beast Level 1 (Part 1)</split.zone>
+      <split.zone>The Belly of the Beast Level 2 (Part 1)</split.zone>
+      <split.zone>The Harvest (Part 1)</split.zone>
+      <split.zone>The Ascent (Part 1)</split.zone>
+      <split.zone>The Slave Pens (Part 1)</split.zone>
+      <split.zone>Overseer's Tower (Part 1)</split.zone>
+      <split.zone>The Control Blocks (Part 1)</split.zone>
+      <split.zone>Oriath Square (Part 1)</split.zone>
+      <split.zone>The Templar Courts (Part 1)</split.zone>
+      <split.zone>The Chamber of Innocence (Part 1)</split.zone>
+      <split.zone>The Torched Courts (Part 1)</split.zone>
+      <split.zone>The Ruined Square (Part 1)</split.zone>
+      <split.zone>The Ossuary (Part 1)</split.zone>
+      <split.zone>The Reliquary (Part 1)</split.zone>
+      <split.zone>The Cathedral Rooftop (Part 1)</split.zone>
+      <split.zone>Lioneye's Watch (Part 2)</split.zone>
+      <split.zone>The Coast (Part 2)</split.zone>
+      <split.zone>The Mud Flats (Part 2)</split.zone>
+      <split.zone>The Karui Fortress (Part 2)</split.zone>
+      <split.zone>The Ridge (Part 2)</split.zone>
+      <split.zone>The Lower Prison (Part 2)</split.zone>
+      <split.zone>Shavronne's Tower (Part 2)</split.zone>
+      <split.zone>Prisoner's Gate (Part 2)</split.zone>
+      <split.zone>The Western Forest (Part 2)</split.zone>
+      <split.zone>The Riverways (Part 2)</split.zone>
+      <split.zone>The Southern Forest (Part 2)</split.zone>
+      <split.zone>The Cavern of Anger (Part 2)</split.zone>
+      <split.zone>The Beacon (Part 2)</split.zone>
+      <split.zone>The Brine King's Reef (Part 2)</split.zone>
+      <split.zone>The Bridge Encampment (Part 2)</split.zone>
+      <split.zone>The Broken Bridge (Part 2)</split.zone>
+      <split.zone>The Crossroads (Part 2)</split.zone>
+      <split.zone>The Fellshrine Ruins (Part 2)</split.zone>
+      <split.zone>The Crypt (Part 2)</split.zone>
+      <split.zone>The Chamber of Sins Level 1 (Part 2)</split.zone>
+      <split.zone>Maligaro's Sanctum (Part 2)</split.zone>
+      <split.zone>The Chamber of Sins Level 2 (Part 2)</split.zone>
+      <split.zone>The Den (Part 2)</split.zone>
+      <split.zone>The Ashen Fields (Part 2)</split.zone>
+      <split.zone>The Northern Forest (Part 2)</split.zone>
+      <split.zone>The Causeway (Part 2)</split.zone>
+      <split.zone>The Vaal City (Part 2)</split.zone>
+      <split.zone>The Temple of Decay Level 1 (Part 2)</split.zone>
+      <split.zone>The Temple of Decay Level 2 (Part 2)</split.zone>
+      <split.zone>The Sarn Ramparts (Part 2)</split.zone>
+      <split.zone>The Sarn Encampment (Part 2)</split.zone>
+      <split.zone>The Toxic Conduits (Part 2)</split.zone>
+      <split.zone>Doedre's Cesspool (Part 2)</split.zone>
+      <split.zone>The Quay (Part 2)</split.zone>
+      <split.zone>The Grain Gate (Part 2)</split.zone>
+      <split.zone>The Imperial Fields (Part 2)</split.zone>
+      <split.zone>The Solaris Temple Level 1 (Part 2)</split.zone>
+      <split.zone>The Solaris Temple Level 2 (Part 2)</split.zone>
+      <split.zone>The Solaris Concourse (Part 2)</split.zone>
+      <split.zone>The Harbour Bridge (Part 2)</split.zone>
+      <split.zone>The Lunaris Concourse (Part 2)</split.zone>
+      <split.zone>The Lunaris Temple Level 1 (Part 2)</split.zone>
+      <split.zone>The Lunaris Temple Level 2 (Part 2)</split.zone>
+      <split.zone>The Bath House (Part 2)</split.zone>
+      <split.zone>The Blood Aqueduct (Part 2)</split.zone>
+      <split.zone>Highgate (Part 2)</split.zone>
+      <split.zone>The Descent (Part 2)</split.zone>
+      <split.zone>The Vastiri Desert (Part 2)</split.zone>
+      <split.zone>The Foothills (Part 2)</split.zone>
+      <split.zone>The Tunnel (Part 2)</split.zone>
+      <split.zone>The Boiling Lake (Part 2)</split.zone>
+      <split.zone>The Quarry (Part 2)</split.zone>
+      <split.zone>The Refinery (Part 2)</split.zone>
+      <split.zone>The Belly of the Beast (Part 2)</split.zone>
+      <split.zone>The Rotting Core (Part 2)</split.zone>
+      <split.zone>Oriath Docks (Part 2)</split.zone>
+      <split.zone>The Cathedral Rooftop (Part 2)</split.zone>
+      <split.zone>The Ravaged Square (Part 2)</split.zone>
+      <split.zone>The Torched Courts (Part 2)</split.zone>
+      <split.zone>The Desecrated Chambers (Part 2)</split.zone>
+      <split.zone>The Reliquary (Part 2)</split.zone>
+      <split.zone>The Canals (Part 2)</split.zone>
+      <split.zone>The Feeding Trough (Part 2)</split.zone>
+    </split.zones.on>
+  </AutoSplitterSettings>
+</Run>
